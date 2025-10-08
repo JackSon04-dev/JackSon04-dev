@@ -40,10 +40,10 @@
 <br>
 <div align="center">
  <!-- Streak stats -->
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhTin-be&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JackSon04-dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 <!-- General GitHub stats -->
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=ThanhTin-be&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=JackSon04-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 <!-- Top languages -->
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTin-be&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
