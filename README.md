@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Gurushesh Pawar - Web Developer">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ThanhTin-be.ThanhTin-be" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JackSon04-dev.JackSon04-dev" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tín!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ngọc+Sơn!;" />
 </h1>
 
 <h3 align="center">A passionate student developer from Ho Chi Minh City 🇻🇳</h3>
@@ -13,7 +13,7 @@
 
 🎓 I'm currently studying at **Van Hien University**  
 🌱 I'm learning **JavaScript, Node.js, Backend development, and more**  
-📫 Contact me: **thanhtin.vhu@gmail.com**  
+📫 Contact me: **ngongocson39@gmail.com**  
 
 </div>
 
