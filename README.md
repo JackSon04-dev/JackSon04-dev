@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,mysql,git,vscode,figma,php&perline=10&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,mysql,git,vscode,figma,php&perline=10&theme=dark" alt="Skills"/>
 </div>
 
 <br>
