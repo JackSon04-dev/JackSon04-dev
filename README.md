@@ -34,15 +34,7 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Stats & Trophy 🔥</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackSon04-dev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackSon04-dev&theme=react&hide_border=true" alt="Streak Stats" height="180"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSon04-dev&layout=compact&theme=react&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JackSon04-dev&theme=radical&no-frame=true&margin-w=15" alt="Trophy" height="180"/>
-</div>
 
 <br>
 
