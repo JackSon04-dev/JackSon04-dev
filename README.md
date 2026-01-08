@@ -12,7 +12,7 @@
 
 <div align="center">
   🎓 Studying at <strong>Van Hien University</strong><br>
-  🌱 Currently learning <strong>JavaScript, Node.js, Backend & Full Stack Development</strong><br>
+  🌱 Currently learning <strong>JavaScript, Node.js</strong><br>
   📫 Reach me: <strong>ngongocson39@gmail.com</strong><br><br>
 
   <a href="mailto:ngongocson39@gmail.com">
