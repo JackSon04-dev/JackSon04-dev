@@ -34,13 +34,9 @@
 
 <br>
 
-
-
 <br>
 
-<div align="center">
-  <img src="https://github.com/JackSon04-dev/JackSon04-dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-</div>
+
 
 <br>
 
